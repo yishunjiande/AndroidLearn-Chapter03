@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 }).start();
             }
         });
+
         findViewById(R.id.gen_obj).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
